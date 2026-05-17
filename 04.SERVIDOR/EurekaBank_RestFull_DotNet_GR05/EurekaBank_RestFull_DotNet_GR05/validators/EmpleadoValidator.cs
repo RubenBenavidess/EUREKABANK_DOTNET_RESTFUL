@@ -21,7 +21,7 @@ namespace EurekaBank_RestFull_DotNet_GR05.Validators
         /// </summary>
         public static bool ClaveValida(string clave)
         {
-            return !string.IsNullOrWhiteSpace(clave) && clave.Length >= 6;
+            return !string.IsNullOrWhiteSpace(clave) && clave.Length >= 4;
         }
         
         /// <summary>
