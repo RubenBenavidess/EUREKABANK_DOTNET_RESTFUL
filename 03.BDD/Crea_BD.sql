@@ -1,18 +1,5 @@
-/*
-Empresa        :  EurekaBank
-Software       :  Sistema de Cuentas de Ahorro
-DBMS           :  SQL Server
-Base de Datos  :  eurekabank
-Script         :  Crea la Base de Datos
-Responsable    :  Ing. Eric Gustavo Coronel Castillo
-Email          :  gcoronelc@gmail.com
-Sitio Web      :  www.desarrollasoftware.com
-Blog           :  http://gcoronelc.blogspot.com
-*/
-
-
 -- =============================================
--- Creación de la Base de Datos
+-- Creaciï¿½n de la Base de Datos
 -- =============================================
 
 USE master;
@@ -37,7 +24,7 @@ go
 
 
 -- =============================================
--- Creación de los Objetos de la Base de Datos
+-- Creaciï¿½n de los Objetos de la Base de Datos
 -- =============================================
 
 CREATE TABLE TipoMovimiento (
